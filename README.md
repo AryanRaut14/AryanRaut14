@@ -1,6 +1,6 @@
-# Hi there, I'm Aryan! 👋
+Hi there, I'm Aryan !!
 
-I am an **AI / ML Engineer** focused on building intelligent systems, autonomous agents, and scalable backend architectures. I specialize in bridging the gap between core computer science fundamentals (C++) and cutting-edge generative AI orchestration (Python). 
+I am an **AI / ML Engineer** focused on building intelligent systems and autonomous agents. 
 
 ---
 
@@ -8,19 +8,6 @@ I am an **AI / ML Engineer** focused on building intelligent systems, autonomous
 * 🤖 **Building:** An advanced AI Agent framework featuring long-term semantic memory and integrated **Model Context Protocol (MCP)** for dynamic tool execution.
 * 🛠️ **Core Engineering:** Optimizing data pipelines and backend systems for low-latency AI inference and high-concurrency event handling.
 * 🧠 **Deep Diving:** Exploring advanced retrieval-augmented generation (RAG) paradigms, vector embeddings, and graph-based memory systems.
-
----
-
-### 🛠️ Technical Skills
-
-| Category | Skills & Technologies |
-| :--- | :--- |
-| **AI & Agentic Systems** | Autonomous Agents, Model Context Protocol (MCP), LLM Memory Architectures, Vector Databases, RAG |
-| **Languages** |  Python, C++, C, SQL, Java|
-| **Data Structures & Algorithms** | Advanced Problem Solving (Dynamic Programming, Graph Theory, Sliding Window, Pointers) |
-| **Backend & Distributed Systems**| REST APIs, Distributed Architecture, High-Concurrency Backend Design, DBMS |
-| **Data & Analytics** | Applied Data Science, Social Media Analytics, Predictive Modeling |
-
 
 ---
 
