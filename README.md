@@ -21,5 +21,3 @@ I am an **AI / ML Engineer** focused on building intelligent systems and autonom
     <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </p>
-
-⚡ *Fun fact: When I'm not tweaking LLM contexts or optimizing algorithms in C++, I'm usually analyzing the aerodynamics of street triple rs or catching up on mangas.*
