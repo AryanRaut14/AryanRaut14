@@ -17,6 +17,7 @@ I am an **AI / ML Engineer** focused on building intelligent systems and autonom
   <a href="https://linkedin.com/in/aryan-raut-6450181b1" target="(https://www.linkedin.com/in/aryan-raut-6450181b1/)">
     <img src="https://img.shields.io/badge/LinkedIn-AryanRaut-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
+  
   <a href="mailto:your.aryanbraut@gmail.com">
     <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
