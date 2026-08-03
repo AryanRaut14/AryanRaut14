@@ -1,6 +1,6 @@
 ## Hi there, I'm Aryan !!
 
-I am an **AI / ML Engineer** focused on building intelligent systems and autonomous agents. 
+I am an **AI / LLM Engineer** focused on building intelligent systems and autonomous agents. 
 
 ---
 
